@@ -1,0 +1,56 @@
+sqrt(2) = 1.41421
+21/5 = 4.2
+e^pi = 23.1407
+e^i = (0.540302,0.841471)
+pi^e = 22.4592
+pi^i = (0.413292,0.910598)
+i^i = (0.20788,0)
+log(i) = (0,1.5708)
+
+fGamma function:
+Gamma(1) = 1
+Gamma(2) = 1
+Gamma(3) = 2
+Gamma(4) = 6
+Gamma(5) = 24
+Gamma(6) = 120
+Gamma(7) = 720
+Gamma(8) = 5040
+Gamma(9) = 40320
+Gamma(10) = 362880
+
+lnGamma function:
+lnGamma(1) = -1.09351e-08
+lnGamma(2) = -1.09351e-08
+lnGamma(3) = 0.693147
+lnGamma(4) = 1.79176
+lnGamma(5) = 3.17805
+lnGamma(6) = 4.78749
+lnGamma(7) = 6.57925
+lnGamma(8) = 8.52516
+lnGamma(9) = 10.6046
+lnGamma(10) = 12.8018
+
+Check
+exp(lnGamma(1)) = 1
+exp(lnGamma(2)) = 1
+exp(lnGamma(3)) = 2
+exp(lnGamma(4)) = 6
+exp(lnGamma(5)) = 24
+exp(lnGamma(6)) = 120
+exp(lnGamma(7)) = 720
+exp(lnGamma(8)) = 5040
+exp(lnGamma(9)) = 40320
+exp(lnGamma(10)) = 362880
+
+Error check:
+n = 1 error = 1.11022e-16
+n = 2 error = 1.11022e-16
+n = 3 error = 4.44089e-16
+n = 4 error = 0
+n = 5 error = 3.55271e-15
+n = 6 error = 0
+n = 7 error = 2.27374e-13
+n = 8 error = 9.09495e-13
+n = 9 error = 0
+n = 10 error = 0
